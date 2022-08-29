@@ -1,0 +1,7 @@
+git clone <url>
+cd project_name
+git init
+git add .
+git commit -m "cm"
+git push origin main/master
+git status 
